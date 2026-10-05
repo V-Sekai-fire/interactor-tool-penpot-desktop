@@ -1,10 +1,10 @@
 # interactor-tool-penpot-desktop
 
-The two commands that wrap the hosted open-source design tool in a desktop window.
+A recipe that wraps the hosted open-source design tool in a desktop window.
 
 ## Build and run
 
-Install the wrapper, then point it at the hosted app:
+Install Node.js, then the wrapper, then point it at the hosted app. The wrapper's repository is archived and unmaintained.
 
 ```sh
 npm install -g nativefier
